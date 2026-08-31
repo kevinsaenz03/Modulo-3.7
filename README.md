@@ -61,6 +61,7 @@ Una **Microempresa Asociativa Cooperativa** es una organización formada por var
 Su funcionamiento se basa en la **participación, cooperación, responsabilidad y organización de sus integrantes**, buscando alcanzar objetivos económicos y sociales de manera colectiva.
 
 ---
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/3e0f3b9e-b819-48e4-829d-968caa8e153c" />
 
 ## 📌 Temas principales
 
