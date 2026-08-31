@@ -168,7 +168,6 @@ Para un estudiante de **Desarrollo de Software**, este módulo también represen
 
 🎓 Bachillerato Técnico en Desarrollo de Software
 🏫 Instituto Nacional de Osicala
-🇸🇻 El Salvador
 
 ---
 
