@@ -1,5 +1,5 @@
 # 📚 Módulo 3.7: Puesta en marcha de la Microempresa Asociativa Cooperativa
-<img width="704" height="396" alt="image" src="https://github.com/user-attachments/assets/a2f373fd-d1d3-40c7-92e5-653b9704a075" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/a2f373fd-d1d3-40c7-92e5-653b9704a075" />
 
 ## 🏫 Información del módulo
 
